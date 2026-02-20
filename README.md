@@ -6,7 +6,7 @@ The goal of this analysis was to transform raw transactional data from the onlin
 
 🛠️ Tech Stack
 
-Language: SQL (PostgreSQL/MySQL compatible)
+Language: My SQL
 
 Database: online_salesKey
 
