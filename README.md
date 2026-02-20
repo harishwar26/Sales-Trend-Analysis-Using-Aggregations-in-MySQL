@@ -24,7 +24,11 @@ Volume Tracking: Utilized COUNT(DISTINCT order_id) to ensure each customer check
 
 Chronological Sorting: Ordered the results by Year and Month (DESC) to prioritize the most recent data.
 
-📊 Sample Outputsales_yearsales_monthtotal_revenueorder_volume202512$1,375.004202511$2,230.005202510$245.253
+📊 Sample Output
+sales_year,sales_month,total_revenue,order_volume
+2025,12,"$1,375.00",4
+2025,11,"$2,230.00",5
+2025,10,$245.25,3
 
 💡 Key Insights
 
